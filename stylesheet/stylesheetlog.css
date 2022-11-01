@@ -1,0 +1,29 @@
+div.divlog    {
+    padding-top: 10%;
+    padding-bottom: 11%;
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+
+div.divlog input {
+    border: hidden;
+    background-color: whitesmoke;
+    margin-bottom: 15px;
+}
+
+div.divlog a:link {
+    text-decoration: none;
+}
+
+div.logalign {
+    margin: 15px 0px 16px 0px;
+}
+
+a.change {
+    color: navy;
+}
+
+a.change:hover {
+    color: red;
+}

@@ -1,0 +1,40 @@
+section#secnews {
+    padding-bottom: 43.4%;
+}
+
+div#divhead {
+    padding: 10px;
+    background-color: gray;
+    text-align: center;
+    color: ivory;
+}
+
+nav.navnews 	{
+    float: left;
+    background-color: whitesmoke;
+    padding: 31px;
+    padding-bottom: 20%;
+    width: 28%;
+    height: 300px;
+    text-align: justify;
+}
+
+.newshead {
+    text-align: center;
+}
+
+article.newsart 	{
+    float: left;
+    background-color: whitesmoke;
+    padding: 31px;
+    padding-bottom: 20%;
+    width: 28%;
+    height: 300px;
+    margin-left: 1%;
+    text-align: justify;
+    color: black;
+}
+
+div#muchspace {
+    padding: 22.2%;
+}

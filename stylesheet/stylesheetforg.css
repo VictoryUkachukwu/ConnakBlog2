@@ -1,0 +1,25 @@
+div#divfor    {
+    padding-top: 10%;
+    padding-bottom: 17%;
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+
+div#divfor p {
+    color: #000080;
+}
+
+div#divfor p a:link, a:visited {
+    text-decoration: none;
+}
+
+div#divfor p a:hover {
+    color: red;
+}
+
+div#divfor input {
+    border: hidden;
+    background-color: whitesmoke;
+    margin-bottom: 10px;
+}

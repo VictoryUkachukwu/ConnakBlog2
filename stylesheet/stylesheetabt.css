@@ -1,0 +1,63 @@
+h2.about    {
+    text-align: center;
+    font-size: x-large;
+    font-weight: lighter;
+}
+
+.her     {
+    border: 2px solid #000080;
+}
+
+nav#navabt 	{
+    float: left;
+    background-color: lightgray;
+    padding: 20px;
+    padding-bottom: 100%;
+    width: 47%;
+    height: 300px;
+    text-align: justify;
+}
+
+article#abtart 	{
+    float: right;
+    background-color: lightgray;
+    padding: 20px;
+    padding-bottom: 100%;
+    width: 47%;
+    height: 300px;
+    text-align: justify;
+}
+
+p.p01 {
+    background-color: #2e2eff5d;
+    margin: 0px;
+}
+ 
+p.p02   {
+    background-color: rgba(250, 70, 70, 0.589);
+    margin: 0px;
+}
+
+img.imgabt {
+    width: 40%;
+    height: 40%;
+    float: left;
+}
+
+div.done {
+    float: left;
+    padding-top: 0px;
+    margin-bottom: 20px;
+}
+
+img.imgast {
+    width: 40%;
+    height: 40%;
+    float: right;
+}
+
+div.dash {
+    float: right;
+    padding-top: 0px;
+    margin-bottom: 20px;
+}

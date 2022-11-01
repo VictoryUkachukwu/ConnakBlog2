@@ -1,0 +1,49 @@
+div.divreg {
+    margin-left: 20%;
+    margin-right: 25%;
+    margin-top: 3%;
+    border: 4px solid  gray;
+    border-radius: 30px;
+    padding-left: 15%;
+    color: rgba(14, 20, 110, 0.856);
+    background-color: rgba(240, 242, 245, 0.349);
+}
+      
+      div.divreg h2 {
+            margin-left: 20%;
+        }
+
+        div.divreg input {
+            margin-left: 15%;
+            border: 1px solid  rgba(240, 242, 245, 0.349);
+            border-radius: 5px;
+        }
+
+        div.divreg input#if {
+            margin-left: 15%;
+            padding-right: 5%;
+        }
+
+        div.divreg input#regsub {
+            background-color: #000080;
+            color: white;
+            width: 50%;
+            padding: 1%;
+            margin: 4% 0% 0% 0%;
+        }
+
+        div.divreg input#regsub:hover  {
+            background: gray;
+        }
+
+        div.divreg p#regp {
+            margin-left: 11%;
+        }
+
+        div.divreg p#regp a:link, a:visited {
+            text-decoration: none;
+        }
+
+        div.divreg p#regp a:hover {
+            color: red;
+        }

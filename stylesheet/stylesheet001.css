@@ -1,0 +1,102 @@
+    body {
+            margin: 0;
+            padding: 0;
+            background-color: gray;
+            font-family: Nunito, Poppins, sans-serif;
+    }
+
+    header.allheader {
+        padding: 7%;
+        background-color: rgba(73, 73, 73, 0.486);
+        color: white;
+        font-size: xx-large;
+        font-weight: bold;
+        text-align: center;
+    }
+
+    button.no {
+            background-color: #000080;
+            font-size: medium;
+            border-radius: 12px;
+            float: right;
+    }
+
+    button.no a:hover{
+        background-color: #000080;
+}
+
+.navbar {
+        overflow: hidden;
+        background-color: #000080;
+        position: fixed;
+        top: 0;
+        width: 100%;
+        padding: 0px;
+}
+
+.navbar a:link, a:visited  {
+        float: right;
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 20px;
+        text-decoration: none;
+        font-size: 100%;
+}
+.navbar a:hover  {
+        background-color: red;
+}
+
+.navbar h2 {
+        float: left;
+        color: white;
+        margin-left: 3%;
+}
+
+/* 
+img#logo {
+        width: 100px;
+        height: 50px;
+} */
+
+div#space {
+        padding-bottom: 3%;
+}
+
+footer#ffoot      {
+        padding: 3px;
+        background-color: rgba(73, 73, 73, 0.486);
+        color: white;
+        text-align: left;
+    }
+
+    h3#para {
+    font-weight: lighter;
+    color: white;
+    margin-left: 40%;
+    }
+
+    footer#ffoot input {
+            margin-left: 40%;
+    }
+
+    button#fish {
+     border-radius: 0px;
+     background-color: red;
+     color: white;
+    }
+
+    div#sfoot      {
+        padding-top: 0px;
+        padding-bottom: 60px;
+        background-color: #000080;
+        color: white;
+    }
+
+    div#sfoot p#floatleft {
+            float: left;
+    }
+  
+    div#sfoot p#floatright {
+            float: right;
+    }
